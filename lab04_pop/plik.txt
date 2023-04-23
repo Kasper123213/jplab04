@@ -1,0 +1,11 @@
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\module-info.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\buttons\ButtonsPanel.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\chart\ChartPanel.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\main\MainFrame.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\MyPanel.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\movableObjects\Arm1.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\movableObjects\Arm2.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\movableObjects\ArmEnd.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\movableObjects\ConactPoint.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\unmovableObjects\Asches.java
+C:\Users\radom\OneDrive\Pulpit\lab04_pop\src\objects\unmovableObjects\Point.java
